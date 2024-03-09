@@ -10,7 +10,7 @@ The structure of the human brain has evolved to achieve extraordinary computing 
 
 #### Algorithms:
 
-[algorithm](https://github.com/syhtsr/fMRI-SNN/code)
+[The algorithm of speech recognation based on fMRI-SNN](https://github.com/syhtsr/fMRI-SNN/code)
 
 #### Datasets:
-[Datasets](https://catalog.ldc.upenn.edu/LDC93S9)  
+[TI46 Datasets](https://catalog.ldc.upenn.edu/LDC93S9)  
